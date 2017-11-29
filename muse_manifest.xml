@@ -1,0 +1,73 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="G0.com" resolutions="1x" timestamp="1511976138624">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="________-________-_____.css" crc="4214579732" ref="домашняя-страница-копия"/>
+    <file name="index.css" crc="304881555" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="домашняя-страница-копия:index"/>
+    <file name="museutils.js" crc="3803043152" ref="домашняя-страница-копия:index"/>
+    <file name="whatinput.js" crc="86476730" ref="домашняя-страница-копия:index"/>
+    <file name="museconfig.js" crc="4153641093" ref="домашняя-страница-копия:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="домашняя-страница-копия:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="домашняя-страница-копия:index"/>
+    <file name="webpro.js" crc="242022427" ref="домашняя-страница-копия:index"/>
+    <file name="form_check.php" crc="147359589" ref="домашняя-страница-копия"/>
+    <file name="form_throttle.php" crc="93986428" ref="домашняя-страница-копия"/>
+    <file name="form_process.php" crc="3851993751" ref="домашняя-страница-копия"/>
+    <file name="form-u864.php" crc="3934296251" ref="домашняя-страница-копия"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="домашняя-страница-копия:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="домашняя-страница-копия:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="домашняя-страница-копия:index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="домашняя-страница-копия:index"/>
+    <file name="require.js" crc="4157109226" ref="домашняя-страница-копия:index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-bg.jpg" crc="224543835" ref="домашняя-страница-копия:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="без имени-4@1x-u948-fr.png" crc="3902896290" ref="домашняя-страница-копия:index"/>
+    <file name="u887-4.png" crc="4143714131" ref="домашняя-страница-копия"/>
+    <file name="bandicam 2017-11-29 18-37-45-357.jpg" crc="171123129" ref="домашняя-страница-копия:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="pricing-bg.jpg" crc="268446513" ref="домашняя-страница-копия:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="kirk.jpg" crc="394246743" seo="true" ref="домашняя-страница-копия">
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="lobzenko.jpg" crc="3937529266" seo="true" ref="домашняя-страница-копия">
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="roe.jpg" crc="156127386" seo="true" ref="домашняя-страница-копия">
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="dou.jpg" crc="4111477274" seo="true" ref="домашняя-страница-копия">
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="footer-logo.png" crc="245010904" seo="true" ref="домашняя-страница-копия">
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="phone.png" crc="4216598547" seo="true" ref="домашняя-страница-копия:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="bandicam 2017-11-29 15-35-27-758.jpg" crc="4139948612" seo="true" ref="домашняя-страница-копия:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="2.jpg" crc="489259097" ref="домашняя-страница-копия">
+      <caption webpage="домашняя-страница-копия" alt=""/>
+    </file>
+    <file name="u1230-4.png" crc="4143714131" ref="index"/>
+    <file name="без имени-4@1x.png" crc="288663103" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="домашняя-страница-копия.html" crc="505212114" seo="true" mt="1511976043040" redirect="true"/>
+  <file name="index.html" crc="392399141" seo="true" mt="1511976109931" redirect="true"/>
+</manifest>
